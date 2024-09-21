@@ -1,7 +1,8 @@
 
 
-This is a website to host supplementary materials (data and scripts) for 'Intelligence brings responsibility - even AI-tools are held responsible' paper submitted to Nature Machine Intelligence (August 2022).
+This is a website to host supplementary materials (data and scripts) for Longin, L., Bahrami, B., & Deroy, O. (2023). Intelligence brings responsibility-Even smart AI assistants are held responsible. Iscience, 26(8).
 
+For the full paper see here: https://www.sciencedirect.com/science/article/pii/S2589004223015717
 
 **Scripts**:
 Use the website or the index.Rmd doc to access the script used to create the figures. 
